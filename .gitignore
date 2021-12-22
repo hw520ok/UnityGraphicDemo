@@ -1,0 +1,14 @@
+*.sln
+*.csproj
+Library/
+Temp/
+UserSettings/
+obj/
+.vs/
+.vsconfig
+.vscode/
+shaderCfg
+Logs
+CreatorFiles
+xxx
+PackageSource
